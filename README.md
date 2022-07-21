@@ -1,0 +1,2 @@
+# RIGGU
+Semi-humanoid Robot.
